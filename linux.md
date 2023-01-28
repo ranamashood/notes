@@ -5,11 +5,16 @@
 ## Apps
 
 - [Audio](#audio)
+- [Programming](#programming)
 - [Random](#random)
 
 ### Audio
 
 - [qpwgraph](https://github.com/rncbc/qpwgraph) - GUI - A PipeWire Graph Qt GUI Interface
+
+### Programming
+
+- [CodeImage] (<https://github.com/riccardoperra/codeimage>) - WEB - A tool to beautify your code screenshots.
 
 ### Random
 
