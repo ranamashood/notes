@@ -14,7 +14,7 @@
 
 ### Programming
 
-- [CodeImage] (<https://github.com/riccardoperra/codeimage>) - WEB - A tool to beautify your code screenshots.
+- [CodeImage](https://github.com/riccardoperra/codeimage) - WEB - A tool to beautify your code screenshots.
 
 ### Random
 
