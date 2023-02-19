@@ -1,24 +1,24 @@
-# Table Of Content
+[lazygit](https://github.com/jesseduffield/lazygit) - TUI - simple terminal UI for git commands
 
-- [Apps](#apps)
+----------
 
-## Apps
+[onefetch](https://github.com/o2sh/onefetch) - CLI - Command-line Git information tool
 
-- [Audio](#audio)
-- [Programming](#programming)
-- [Random](#random)
+----------
 
-### Audio
+[fastfetch](https://github.com/LinusDierheimer/fastfetch) - CLI - Like neofetch, but much faster because written in C
 
-- [qpwgraph](https://github.com/rncbc/qpwgraph) - GUI - A PipeWire Graph Qt GUI Interface
+----------
 
-### Programming
+[qpwgraph](https://github.com/rncbc/qpwgraph) - GUI - A PipeWire Graph Qt GUI Interface
 
-- [CodeImage](https://github.com/riccardoperra/codeimage) - WEB - A tool to beautify your code screenshots.
+----------
 
-### Random
+[CodeImage](https://github.com/riccardoperra/codeimage) - WEB - A tool to beautify your code screenshots
 
-- [perl-file-mimeinfo](https://archlinux.org/packages/extra/any/perl-file-mimeinfo/) - TUI - Determine file type, includes mimeopen and mimetype
+----------
+
+[perl-file-mimeinfo](https://github.com/mbeijen/File-MimeInfo) - CLI - Determine file type, includes mimeopen and mimetype
 
 ```
 # determine a file's MIME type
@@ -38,3 +38,5 @@ use application #
 # open a file with its default application
 $ mimeopen -n photo.jpeg
 ```
+
+----------
